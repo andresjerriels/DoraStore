@@ -1,7 +1,6 @@
-# IF3110-2021
-Tugas Besar 1 - DoraStore<br>
+# DoraStore
+Tugas Besar 1 - IF3110 Pengembangan Perangkat Lunak Berbasis Web<br>
 Implementasi Monolithic Web Application<br>
-IF3110 - Pengembangan Perangkat Lunak Berbasis Web
 
 ## Author
 - Shifa Salsabiila (13519106)
